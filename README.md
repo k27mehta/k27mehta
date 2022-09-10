@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hello there 👋 </h1>
+<h3 align="center"> I'm a passionate product builder and designer who codes</h3>
+<h5 align="center">
+Currently, I work as a product manager @ Microsoft to help users save time and money while they are shopping on Edge. Previously, I was @ Shopify as an associate product manager on the partnerships team where I built features that allowed merchants to sell their products on Amazon and Google. 
+</h5>
+
+
 
 <!--
 **k27mehta/k27mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
